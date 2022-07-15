@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Tau Ahmed</h1>
-<h3 align="center">A chatty frontend developer from India</h3>
+<h1 align="center">Hi 👋😁, I'm Tau Ahmed</h1>
+<h3 align="center">A chatty fullstack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/katkawpose" target="blank"><img src="https://img.shields.io/twitter/follow/katkawpose?logo=twitter&style=for-the-badge" alt="katkawpose" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN Stack**
+- 🌱 I’m currently learning the **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://tau-website-maker.netlify.app/](https://tau-website-maker.netlify.app/)
 
 - 💬 Ask me about **productivity and learning programming**
 
-- 📫 How to reach me **https://tau-website-maker.netlify.app/**
+- 📫 Reach me @ **https://tau-website-maker.netlify.app/**
 
-- ⚡ Fun fact **My PC only has about 500mb of free RAM at the moment, send RAM.**
+- ⚡ Fun fact **My PC only has about 500mb of free RAM at the moment. Send RAM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
