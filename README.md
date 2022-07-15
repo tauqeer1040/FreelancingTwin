@@ -11,7 +11,7 @@
 
 - 📫 Reach me @ **https://tau-website-maker.netlify.app/**
 
-- ⚡ Fun fact **My PC only has about 500mb of free RAM at the moment. Send RAM.**
+- ⚡ Fun fact: **My PC only has about 500mb of free RAM at the moment. Send RAM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
