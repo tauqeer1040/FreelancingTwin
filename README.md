@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/katkawpose" target="blank"><img src="https://img.shields.io/twitter/follow/katkawpose?logo=twitter&style=for-the-badge" alt="katkawpose" /></a> </p>
 
-- 🌱 I’m currently learning the **MERN Stack**
+- 🌱 I'm fluent with the **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://tau-website-maker.netlify.app/](https://tau-website-maker.netlify.app/)
 
