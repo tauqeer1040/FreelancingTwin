@@ -1,8 +1,6 @@
 <h1 align="left"> I'm Tauqeer Ahmed. (Tao-kh-ir)</h1>
 <i><h4 align="left">A chatty fullstack developer from India</h4></i>
 
-#<p align="left"> <a href="https://twitter.com/katkawpose" target="blank"><img src="https://img.shields.io/twitter/follow/katkawpose?logo=twitter&style=for-the-badge" alt="katkawpose" /></a> </p>#
-
 - 🌱 I'm fluent in the MERN stack
 
 - 👨‍💻 All of my projects are available at [https://tau-website-maker.netlify.app/](https://tau-website-maker.netlify.app/)
@@ -13,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/katkawpose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katkawpose" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tauqeerahmed100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tauqeerahmed100" height="30" width="40" /></a>
-<a href="https://discord.gg/LazyTea#6888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LazyTea#6888" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
