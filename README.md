@@ -1,5 +1,5 @@
-<h1 align="center"> I'm Tauqeer Ahmed. (Tao-kh-ir)</h1>
-<h3 align="center">A chatty fullstack developer from India</h3>
+<h1 align="left"> I'm Tauqeer Ahmed. (Tao-kh-ir)</h1>
+<h3 align="left">A chatty fullstack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/katkawpose" target="blank"><img src="https://img.shields.io/twitter/follow/katkawpose?logo=twitter&style=for-the-badge" alt="katkawpose" /></a> </p>
 
