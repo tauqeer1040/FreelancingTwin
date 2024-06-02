@@ -1,7 +1,7 @@
 <h1 align="left"> I'm Tauqeer Ahmed. (Tao-kh-ir)</h1>
 <i><h4 align="left">A chatty fullstack developer from India</h4></i>
 
-#<p align="left"> <a href="https://twitter.com/katkawpose" target="blank"><img src="https://img.shields.io/twitter/follow/katkawpose?logo=twitter&style=for-the-badge" alt="katkawpose" /></a> </p>
+#<p align="left"> <a href="https://twitter.com/katkawpose" target="blank"><img src="https://img.shields.io/twitter/follow/katkawpose?logo=twitter&style=for-the-badge" alt="katkawpose" /></a> </p>#
 
 - 🌱 I'm fluent in the MERN stack
 
